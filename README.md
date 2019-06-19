@@ -1,5 +1,10 @@
 # Wrangling WeRateDogs 
 
+Please check the jupyter notebook in:
+- HTML format: https://htmlpreview.github.io/?https://github.com/RyMey/Wrangling-WeRateDogs-Twitter/blob/master/documentation/Data%20Wrangling%20Project.html
+<br> <b> or </b> <br>
+- ipython format: https://github.com/RyMey/Wrangling-WeRateDogs-Twitter/blob/master/Data%20Wrangling%20Project.ipynb
+
 ## Table of Contents
 <ul>
 <li><a href="#intro">Introduction</a></li>
